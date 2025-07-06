@@ -1,2 +1,2 @@
 # LearnPHP
-Learning PHP course with Codecademy
+Learn PHP course with Codecademy
