@@ -1,5 +1,5 @@
 <?php
-  //Starting rates
+  //Starting amounts
   $riel = 2103942;
   $kyat = 19092;
   $krones = 109;
